@@ -1,5 +1,6 @@
 {
   "name": "CognitoTriggered",
+  "version": "0.1",
   "private": true,
   "dependencies": {
     "aws-sdk": "~2"
