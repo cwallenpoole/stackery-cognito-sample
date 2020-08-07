@@ -1,4 +1,5 @@
 {
+  "name": "authenticated",
   "private": true,
   "dependencies": {
     "aws-sdk": "~2",

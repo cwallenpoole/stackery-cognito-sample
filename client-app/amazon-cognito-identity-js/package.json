@@ -5,6 +5,7 @@
   "_integrity": "sha512-aYzVLIDqpTmXwBFceKMBotdhisURCx4tYrw+1UghWAItDejFm/+vqfvB8zmTBBWHO8pbuQHeKklJuWsaCKwHlg==",
   "_location": "/amazon-cognito-identity-js",
   "_phantomChildren": {},
+  "name": "amazon-cognito-identity-js",
   "_requested": {
     "type": "tag",
     "registry": true,
